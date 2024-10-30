@@ -1,1 +1,2 @@
-Vercel: https://dice-game-coral-phi.vercel.app/ 
+Vercel: https://dice-game-coral-phi.vercel.app/  <br> <br>
+This project is a dice-based game where players take turns to roll a die and accumulate points. The goal is to reach a total score of 100 or more points. Players can choose to hold their score and add it to their total, or risk rolling the die to accumulate more points. However, if a player rolls a 1, their turn ends, and they lose any points accumulated in that round. 
